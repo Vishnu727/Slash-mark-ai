@@ -6,23 +6,27 @@ This repository contains projects completed during my internship at Slashmark. E
 ## Projects
 1. **Advanced UAV Indoor Obstacle Avoidance based on AI Technique**
    - Description: This project implements an AI technique for indoor UAVs to avoid obstacles.
-   - Technologies: [List technologies used]
+   - Technologies: Python, Jupyter Notebook, Github
 
 2. **Intermediate Credit Card Fraud Detection**
    - Description: Implementing a credit card fraud detection system using machine learning.
-   - Technologies: [List technologies used]
-
-3. **Sentiment Analysis**
-   - Description: Performing sentiment analysis on text data.
-   - Technologies: [List technologies used]
-
-4. **Intermediate Self-Driving Car**
+   - Technologies: Python, Jupyter Notebook, Github
+   - 
+3. **Intermediate Self-Driving Car**
    - Description: Developing an autopilot system for self-driving cars.
-   - Technologies: [List technologies used]
+   - Technologies:Python, Jupyter Notebook, Github
+     
+4. **Sentiment Analysis**
+   - Description: Performing sentiment analysis on text data.
+   - Technologies: Python, Jupyter Notebook, Github
 
 5. **Cat-Dog CNN Classifier**
    - Description: Building a convolutional neural network to classify images of cats and dogs.
-   - Technologies: [List technologies used]
+   - Technologies: Python, Jupyter Notebook, Github
+
+6. **Plagiarism Checker**
+   - Description: Developing a plagiarism detection system.
+   - Technologies: Python, Jupyter Notebook, Github
 
 ## Getting Started
 1. Clone this repository.
