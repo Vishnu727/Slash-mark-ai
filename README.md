@@ -5,28 +5,28 @@ This repository contains projects completed during my internship at Slashmark. E
 
 ## Projects
 1. **Advanced UAV Indoor Obstacle Avoidance based on AI Technique**
-   - Description: This project implements an AI technique for indoor UAVs to avoid obstacles.
-   - Technologies: Python, Jupyter Notebook, Github
+   - *Description*: This project implements an AI technique for indoor UAVs to avoid obstacles.
+   - *Technologies*: Python, Jupyter Notebook, GitHub
 
 2. **Intermediate Credit Card Fraud Detection**
-   - Description: Implementing a credit card fraud detection system using machine learning.
-   - Technologies: Python, Jupyter Notebook, Github
+   - *Description*: Implementing a credit card fraud detection system using machine learning.
+   - *Technologies*: Python, Jupyter Notebook, GitHub
      
 3. **Intermediate Self-Driving Car**
-   - Description: Developing an autopilot system for self-driving cars.
-   - Technologies:Python, Jupyter Notebook, Github
+   - *Description*: Developing an autopilot system for self-driving cars.
+   - *Technologies*: Python, Jupyter Notebook, GitHub
      
 4. **Sentiment Analysis**
-   - Description: Performing sentiment analysis on text data.
-   - Technologies: Python, Jupyter Notebook, Github
+   - *Description*: Performing sentiment analysis on text data.
+   - *Technologies*: Python, Jupyter Notebook, GitHub
 
 5. **Cat-Dog CNN Classifier**
-   - Description: Building a convolutional neural network to classify images of cats and dogs.
-   - Technologies: Python, Jupyter Notebook, Github
+   - *Description*: Building a convolutional neural network to classify images of cats and dogs.
+   - *Technologies*: Python, Jupyter Notebook, GitHub
 
 6. **Plagiarism Checker**
-   - Description: Developing a plagiarism detection system.
-   - Technologies: Python, Jupyter Notebook, Github
+   - *Description*: Developing a plagiarism detection system.
+   - *Technologies*: Python, Jupyter Notebook, GitHub
 
 ## Getting Started
 1. Clone this repository.
@@ -37,7 +37,7 @@ This repository contains projects completed during my internship at Slashmark. E
 - Each project directory contains its own README with detailed instructions on setup, usage, and any additional information.
 
 ## License
-This project is licensed under the [Kiran] - see the [LICENSE](https://github.com/viswakiran16/Slashmark_AI) file for details.
+This project is licensed under the Viswakiran(https://github.com/viswakiran16/Slashmark_AI) - see the LICENSE file for details.
 
 ## Acknowledgments
 - Mention any contributors, tutorials, or resources used during the internship.
