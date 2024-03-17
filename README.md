@@ -37,7 +37,7 @@ This repository contains projects completed during my internship at Slashmark. E
 - Each project directory contains its own README with detailed instructions on setup, usage, and any additional information.
 
 ## License
-This project is licensed under the Viswakiran(https://github.com/viswakiran16/Slashmark_AI) - see the LICENSE file for details.
+This project is licensed under the [Viswakiran](https://github.com/viswakiran16/Slashmark_AI) - see the LICENSE file for details.
 
 ## Acknowledgments
 - Mention any contributors, tutorials, or resources used during the internship.
